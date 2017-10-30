@@ -6,9 +6,6 @@
 
 $(document).ready(function(){
     $("button").click(function(){
-        $("p").hide();
+        $("h1").text("DONE!");
     });
-
-   // jQuery methods go here...
-
 });
