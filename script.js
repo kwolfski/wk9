@@ -6,6 +6,7 @@
 
 $(document).ready(function(){
     $("button").click(function(){
-        $("h1").text("DONE!");
+        $("h1").text("All done!");
+        $("h1").toggleClass("change");
     });
 });

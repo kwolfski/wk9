@@ -2,6 +2,7 @@
 body {
   font-family: arial, sans-serif;
   font-weight: normal;
+  align-items: center;
 }
 
 h1 {
@@ -9,6 +10,10 @@ h1 {
   font-size: 40px;
   text-align: center;
   color: purple;
+}
+
+.change {
+  color: magenta;
 }
 
 #btn {
@@ -19,5 +24,8 @@ h1 {
   color: white;
   font-size: 20px;
   text-transform: uppercase;
-  
+}
+
+div{
+    text-align:center;
 }
