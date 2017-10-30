@@ -3,3 +3,9 @@
 //When you’re finished, post the HTML/JS up on your server space and submit the link in a new thread in the discussion board titled “Assignment 9: Document Ready” and include “Document Ready” in the title.
 
 //Also, post a link to your code in github
+
+$(document).ready(function(){
+
+   // jQuery methods go here...
+
+});
