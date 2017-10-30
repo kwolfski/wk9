@@ -5,6 +5,9 @@
 //Also, post a link to your code in github
 
 $(document).ready(function(){
+    $("button").click(function(){
+        $("p").hide();
+    });
 
    // jQuery methods go here...
 

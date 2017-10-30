@@ -10,3 +10,14 @@ h1 {
   text-align: center;
   color: purple;
 }
+
+#btn {
+  border: 1px black;
+  width: 200px;
+  height: 50px;
+  background: purple;
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  
+}
